@@ -53,6 +53,14 @@ Then the portfolio contents should be displayed
 - Refactor the `main.css` file using SMACSS principles.
   - You may decide how many files to include, but at the minimum should include  `base.css`, `layout.css`, and `modules.css`. However, think through the way you separate your CSS rules. For example, you may want several CSS files in a `modules` folder, if you feel that the code needs to be organized in that manner.
 
+Estimate of time needed to complete: 30min
+
+Start time: 5:00
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
 ### Feature #2: Modify the contents
 
 #### Why are we implementing this feature?
