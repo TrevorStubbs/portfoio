@@ -57,9 +57,9 @@ Estimate of time needed to complete: 30min
 
 Start time: 5:00
 
-Finish time: _____
+Finish time: 5:25
 
-Actual time needed to complete: _____
+Actual time needed to complete: 25 minutes
 
 ### Feature #2: Modify the contents
 
@@ -85,6 +85,14 @@ Then the content should be unique and reflect the skills and personality of the 
 - Change the content and images to reflect your personal preferences. If you are using online images, make sure they are licensed for free, commercial use. For example, [Unsplash](https://unsplash.com/) has a nice variety of free images. 
 - Update the list of social media icons with your links using icons for your favorite social media sites from IcoMoon or Font Awesome.
 - Keep in mind that this template is just a starting point. It is yours to modify to reflect your personal online presence as a software developer so have fun and be creative!
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 5:30
+
+Finish time: _____
+
+Actual time needed to complete: _____
 
 ## Submission Instructions
 
